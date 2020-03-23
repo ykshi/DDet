@@ -1,6 +1,6 @@
 # DDet
 
-This is the implementation of [DDet: Dual-path Dynamic Enhancement Network for Real-World Image Super-Resolution](https://arxiv.org/abs/2002.11079), IEEE Signal Processing Letters 2020.
+[DDet: Dual-path Dynamic Enhancement Network for Real-World Image Super-Resolution](https://arxiv.org/abs/2002.11079)(DDet), IEEE SPL 2020.
 
 # Prerequisites
 - Computer with Linux 16.04
