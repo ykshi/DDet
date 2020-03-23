@@ -29,7 +29,7 @@ Besides, Matcaffe is required for testing, a concise matcaffe test demo is demon
         <img src="https://github.com/ykshi/DDet/blob/master/png/results.png"/>
 </div>
 
-#Feedback and Citation
+# Feedback and Citation
 ``
 @article{shi2020ddet,
   title={DDet: Dual-path Dynamic Enhancement Network for Real-World Image Super-Resolution},
