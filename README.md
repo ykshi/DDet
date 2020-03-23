@@ -30,14 +30,14 @@ Besides, Matcaffe is required for testing, a concise matcaffe test demo is demon
 </div>
 
 # Feedback and Citation
-``
+```
 @article{shi2020ddet,
   title={DDet: Dual-path Dynamic Enhancement Network for Real-World Image Super-Resolution},
   author={Shi, Yukai and Zhong, Haoyu and Yang, Zhijing and Yang, Xiaojun and Lin, Liang},
   journal={arXiv preprint arXiv:2002.11079},
   year={2020}
 }
-``
+```
 if you have any question, please feel free to contact me by sending mail to `ykshi.1991ATfoxmail.com`.
 
 
